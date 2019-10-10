@@ -1,7 +1,43 @@
-
 # Flix
+# Lab 3 - *Name of App Here*
+
+**Name of your app** is a movies app displaying box office and top rental DVDs using [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+
+Time spent: **X** hours spent in total
+
+## User Stories
+
+The following **required** user stories are complete:
+
+- The following screens use AutoLayout to adapt to various orientations and screen sizes
+   - [X] Movie feed view (+3pt)
+   - [ ] Detail view (+2pt)
+
+The following **stretch** user stories are implemented:
+
+- [X] Dynamic Height Cells (+1)
+- [X] Collection View AutoLayout (+2)
 
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+
+
+The following **additional** user stories are implemented:
+
+- [X] List anything else that you can get done to improve the app functionality! (+1-3pts)
+
+Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
+
+1. Make the app faster
+2. Make the app load on refresh new movies
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='flixrotate.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
 
 ## Flix Part 2
 
